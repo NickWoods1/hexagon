@@ -1,0 +1,1 @@
+gfortran Armchair_Geometry.f90 Zigzag_geometry.f90 Metal_Armchair_Geometry.f90 Construct_AC_Hamiltonian.f90 Construct_ZZ_Hamiltonian.f90 Construct_MAC_Hamiltonian.f90  HEXAGON.f90 -o HEXAGON.exe -llapack
